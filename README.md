@@ -1,4 +1,3 @@
-"""
 # 📊 Klasifikasi Decision Tree – UTS Praktikum Machine Learning
 
 Proyek ini dibuat untuk menyelesaikan Ujian Tengah Semester (UTS) pada mata kuliah Praktikum Machine Learning. Proyek ini menerapkan algoritma **Decision Tree** untuk mengklasifikasikan data dari sebuah dataset.
